@@ -1,0 +1,129 @@
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined index: approved in /home1/mayo85/public_html/ecomm-2/admin/protect.php on line 2
+[05-Nov-2019 20:14:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/mayo85/public_html/ecomm-2/admin/protect.php:2) in /home1/mayo85/public_html/ecomm-2/admin/protect.php on line 4
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined index: id in /home1/mayo85/public_html/ecomm-2/admin/protect.php on line 6
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined index: editsub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 5
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined variable: categories in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 21
+[05-Nov-2019 20:14:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 23
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 74
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84
+[05-Nov-2019 20:14:13 America/Chicago] PHP Notice:  Undefined variable: subname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 86
+[05-Nov-2019 20:14:28 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/login.php on line 3
+[05-Nov-2019 20:14:35 America/Chicago] PHP Notice:  Undefined variable: id in /home1/mayo85/public_html/ecomm-2/admin/login.php on line 15
+[05-Nov-2019 20:14:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/mayo85/public_html/ecomm-2/admin/login.php:15) in /home1/mayo85/public_html/ecomm-2/admin/login.php on line 17
+[05-Nov-2019 20:16:21 America/Chicago] PHP Notice:  Undefined variable: id in /home1/mayo85/public_html/ecomm-2/admin/login.php on line 15
+[05-Nov-2019 20:16:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/mayo85/public_html/ecomm-2/admin/login.php:15) in /home1/mayo85/public_html/ecomm-2/admin/login.php on line 17
+[05-Nov-2019 20:16:26 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:16:26 America/Chicago] PHP Notice:  Undefined index: editsub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 5
+[05-Nov-2019 20:16:26 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:16:26 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:16:26 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:16:26 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:16:26 America/Chicago] PHP Notice:  Undefined variable: categories in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 21
+[05-Nov-2019 20:16:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 23
+[05-Nov-2019 20:16:26 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 74
+[05-Nov-2019 20:16:26 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84
+[05-Nov-2019 20:16:26 America/Chicago] PHP Notice:  Undefined variable: subname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 86
+[05-Nov-2019 20:16:30 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:16:30 America/Chicago] PHP Notice:  Undefined index: editsub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 5
+[05-Nov-2019 20:16:30 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:16:30 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:16:30 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:16:30 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:16:30 America/Chicago] PHP Notice:  Undefined variable: categories in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 21
+[05-Nov-2019 20:16:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 23
+[05-Nov-2019 20:16:30 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 74
+[05-Nov-2019 20:16:30 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84
+[05-Nov-2019 20:16:30 America/Chicago] PHP Notice:  Undefined variable: subname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 86
+[05-Nov-2019 20:24:12 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:24:12 America/Chicago] PHP Notice:  Undefined index: editsub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 5
+[05-Nov-2019 20:24:12 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:24:12 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:24:12 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:24:12 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:24:12 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 28
+[05-Nov-2019 20:24:12 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84
+[05-Nov-2019 20:24:18 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:24:18 America/Chicago] PHP Notice:  Undefined index: editsub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 5
+[05-Nov-2019 20:24:18 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:24:18 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:24:18 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:24:18 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:24:18 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 28
+[05-Nov-2019 20:24:18 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84
+[05-Nov-2019 20:24:43 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:24:43 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:24:43 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:24:43 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:24:43 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:24:43 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 28
+[05-Nov-2019 20:24:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 81
+[05-Nov-2019 20:24:43 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84
+[05-Nov-2019 20:24:57 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:24:57 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:24:57 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:24:57 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:24:57 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:24:57 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 28
+[05-Nov-2019 20:24:57 America/Chicago] PHP Notice:  Trying to get property of non-object in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 81
+[05-Nov-2019 20:24:57 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84
+[05-Nov-2019 20:25:00 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:25:00 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:25:00 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:25:00 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:25:00 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:25:00 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 28
+[05-Nov-2019 20:25:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 81
+[05-Nov-2019 20:25:00 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 60
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined index: updateid in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 61
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined index: deleteid in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 62
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined variable: idtoupdate in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 85
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Use of undefined constant w - assumed 'w' in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 143
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined variable: content in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 144
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined variable: innername in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 160
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined variable: innercat in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 171
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined variable: innercat in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 171
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined variable: innercat in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 171
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined variable: innerdesc in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 183
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined variable: innerprice in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 187
+[05-Nov-2019 20:25:02 America/Chicago] PHP Notice:  Undefined variable: innerlink in /home1/mayo85/public_html/ecomm-2/admin/products.php on line 238
+[05-Nov-2019 20:25:09 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:25:09 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:25:09 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:25:09 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:25:09 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:25:09 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 28
+[05-Nov-2019 20:25:09 America/Chicago] PHP Notice:  Trying to get property of non-object in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 81
+[05-Nov-2019 20:25:09 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84
+[05-Nov-2019 20:25:20 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/login.php on line 3
+[05-Nov-2019 20:26:00 America/Chicago] PHP Notice:  Undefined variable: id in /home1/mayo85/public_html/ecomm-2/admin/login.php on line 15
+[05-Nov-2019 20:26:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/mayo85/public_html/ecomm-2/admin/login.php:15) in /home1/mayo85/public_html/ecomm-2/admin/login.php on line 17
+[05-Nov-2019 20:29:40 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:29:40 America/Chicago] PHP Notice:  Undefined index: editsub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 5
+[05-Nov-2019 20:29:40 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:29:40 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:29:40 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:29:40 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:29:40 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 28
+[05-Nov-2019 20:29:40 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84
+[05-Nov-2019 20:29:47 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:29:47 America/Chicago] PHP Notice:  Undefined index: editsub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 5
+[05-Nov-2019 20:29:47 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:29:47 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:29:47 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:29:47 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:29:47 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 28
+[05-Nov-2019 20:29:47 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84
+[05-Nov-2019 20:29:56 America/Chicago] PHP Notice:  Undefined index: mainid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 4
+[05-Nov-2019 20:29:56 America/Chicago] PHP Notice:  Undefined index: editsub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 5
+[05-Nov-2019 20:29:56 America/Chicago] PHP Notice:  Undefined index: deletesub in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 6
+[05-Nov-2019 20:29:56 America/Chicago] PHP Notice:  Undefined index: submit in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 7
+[05-Nov-2019 20:29:56 America/Chicago] PHP Notice:  Undefined index: subcatname in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 8
+[05-Nov-2019 20:29:56 America/Chicago] PHP Notice:  Undefined index: subcatid in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 9
+[05-Nov-2019 20:29:56 America/Chicago] PHP Notice:  Undefined variable: sublinks in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 28
+[05-Nov-2019 20:29:56 America/Chicago] PHP Notice:  Undefined variable: name in /home1/mayo85/public_html/ecomm-2/admin/index.php on line 84

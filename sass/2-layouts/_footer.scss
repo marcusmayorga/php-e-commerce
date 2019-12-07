@@ -1,0 +1,120 @@
+.footer {
+  width: 100%;
+  height: 320px;
+  border-top: 1px solid #000;
+  background-color: #273238;
+  color: #fff;
+  padding-top: 35px;
+  padding-right: 70px;
+  padding-left: 70px;
+  &__nav {
+    color: #fff;
+    display: inline-block;
+    &--container {
+      display: inline-block;
+      margin-right: 80px;
+    }
+    &--list {
+      padding: 5px;
+      &-item {
+        text-transform: uppercase;
+        margin-bottom: 30px;
+        &-link {
+          color: #fff;
+          font-family: 'Source Sans Pro', sans-serif;
+          text-decoration: none;
+          font-weight: bold;
+          font-size: 18px;
+        }
+      }
+    }
+  }
+  &__copyright {
+    padding: 5px;
+    &--text {
+      text-transform: uppercase;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-size: 13px;
+    }
+  }
+  &__email-and-social-contain {
+    float: right;
+    width: 460px;
+    &::after {
+      content: '';
+      clear: both;
+      display: table;
+    }
+  }
+
+  &__email-signup {
+    padding: 5px;
+    &--title {
+      font-family: 'Source Sans Pro', sans-serif;
+      text-transform: uppercase;
+      font-size: 35px;
+      font-weight: bold;
+      margin-bottom: 15px;
+    }
+    &--dec {
+      font-family: 'Source Sans Pro', sans-serif;
+      font-size: 26px;
+      margin-bottom: 15px;
+    }
+    &--form {
+      padding: 0;
+      display: inline-block;
+      width: 100%;
+      margin-bottom: 20px;
+    }
+
+    &--input {
+      display: inline-block;
+      font-family: 'Source Sans Pro', sans-serif;
+      color: #c9c9c9;
+      width: 60%;
+      height: 45px;
+      padding-left: 20px;
+      font-size: 18px;
+      font-style: italic;
+      border: 1px solid #7f7e7e;
+      border-right: none;
+      position: relative;
+      // &::after {
+      //   content: '';
+      //   clear: both;
+      //   display: table;
+      // }
+    }
+    &--button {
+      position: absolute;
+      height: 45px;
+      color: #273238;
+      float: left;
+      width: 100px;
+      background: #fff;
+      font-size: 40px;
+      border: 1px solid grey;
+      border-left: none;
+      cursor: pointer;
+    }
+  }
+  &__social {
+    padding: 5px;
+    &--icon {
+      background: #fff;
+      display: inline-block;
+      line-height: 60px;
+      font-size: 42px;
+      text-align: center;
+      border-radius: 50%;
+      color: #273238;
+      height: 60px;
+      width: 60px;
+      margin-right: 30px;
+      // &-borderfix {
+      //   // padding: 15px 25px;
+      // }
+    }
+  }
+}
