@@ -5,6 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Martial Arts Shorts</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154329225-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-154329225-1');
+    </script>
+
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -17,17 +27,17 @@
     <div class="container">
       <header class="header">
         <div class="header__logo">
-          <img
+          <a href="index.php"><img
             src="images/logo.png"
             alt="Martial Arts Shorts Logo"
             class="header__logo--img"
-          />
+          /></a>
         </div>
         <div class="header__nav-search-login">
           <nav class="header__nav">
             <ul class="header__nav--list">
               <li class="header__nav--list-item">
-                <a href="#" class="header__nav--list-item-link">Shop</a>
+                <a href="shop.php" class="header__nav--list-item-link">Shop</a>
               </li>
               <li class="header__nav--list-item">
                 <a href="#" class="header__nav--list-item-link">Bundles</a>
@@ -57,7 +67,7 @@
               <i class="fa fa-user" aria-hidden="true"></i>
             </div>
             <div class="header__login--cart">
-              <a href="../ecomm-2/viewcart.php"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
+              <a class="header__login--cart--link" href="viewcart.php"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
             </div>
           </div>
         </div>

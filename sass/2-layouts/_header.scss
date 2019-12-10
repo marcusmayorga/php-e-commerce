@@ -84,6 +84,9 @@
     }
     &--cart {
       display: inline-block;
+      &--link {
+        color: #000;
+      }
     }
   }
 }

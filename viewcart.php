@@ -88,7 +88,7 @@ $i++;
   <input type = "text" name = "night_phone_a" />
   <br/>
   <input type="hidden" name="cmd" value="_cart">
-  <input type="hidden" name="business" value="mayorga.ml@gmail.com">
+  <input type="hidden" name="business" value="sb-csxgc721230@business.example.com">
   <input type="hidden" name="upload" value="1">
   <input type="hidden" name="currency_code" value="USD">
   <input type = "hidden" name = "shipping_1" value = "0.00"/><input type ="hidden" id ="subtotal" name = "subtotal" value = "0.00"><br/>Subtotal:$ <div id = "copy">Shipping is</div>
