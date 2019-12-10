@@ -14,12 +14,18 @@
 
   <div id="simpleModal" class="modal">
     <div class="modal-content">
+      <div class="modal-header">
       <span class="closeBtn">&times;</span>
-      <div class="product-content">
-        <p>Hello...I am a modal</p>
+      <h2 class="modal-header--text">Modal Header</h2>
       </div>
+        <div class="modal-body">
+          <p>Hello...I am a modal</p>
+        </div>
+        <div class="modal-footer">
+        <h3 class="modal-footer--text">Modal Footer</h3>
+        </div>
     </div>
   </div>
-  <script src="js/main.js"></script>
+  <script src="js/modal.js"></script>
 </body>
 </html>

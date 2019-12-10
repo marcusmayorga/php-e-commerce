@@ -13,13 +13,31 @@
   &__card {
     display: inline-block;
     width: 250px;
-    height: 360px;
+    height: 385px;
     border: 1px solid #7f7e7e;
     margin-left: 10%;
     margin-top: 15px;
     -webkit-box-shadow: 10px 10px 11px -1px rgba(0, 0, 0, 0.5);
     -moz-box-shadow: 10px 10px 11px -1px rgba(0, 0, 0, 0.5);
     box-shadow: 10px 10px 11px -1px rgba(0, 0, 0, 0.5);
+    &--long {
+      height: 445px;
+    }
+    &--desc {
+      margin-top: 15px;
+      font-family: 'Source Sans Pro', sans-serif;
+      color: #000;
+      width: 84%;
+      float: left;
+      font-size: 18px;
+    margin-left: 32px;
+    margin-bottom: 20px;
+      @include toDesktop {
+        font-size: 25px;
+        float: right;
+        width: 50%;
+      }
+    }
     &--contain {
       display: block;
       margin: 0 auto;
@@ -75,4 +93,13 @@
       }
     }
   }
+}
+.your-cart-heading {
+  padding: 3px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: #273238;
+    text-transform: uppercase;
+    font-size: 28px;
 }

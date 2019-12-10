@@ -40,17 +40,37 @@
                 <a href="shop.php" class="header__nav--list-item-link">Shop</a>
               </li>
               <li class="header__nav--list-item">
-                <a href="#" class="header__nav--list-item-link">Bundles</a>
+                <a href="bundles.php" class="header__nav--list-item-link">Bundles</a>
               </li>
               <li class="header__nav--list-item">
-                <a href="#" class="header__nav--list-item-link">Sales</a>
+                <a href="sales.php" class="header__nav--list-item-link">Sales</a>
               </li>
             </ul>
           </nav>
+        <div class="menu-wrap">
+        <input type="checkbox" class="toggler">
+        <div class="hamburger"><div></div></div>
+        <div class="menu">
+           <div>
+               <div>
+                   <ul>
+                        <li>
+                           <a href="shop.php">Shop</a>
+                        </li>
+                        <li>
+                            <a href="bundles.php">Bundles</a>
+                        </li>
+                        <li>
+                            <a href="sales.php">Sales</a>
+                        </li>
+                   </ul>
+               </div>
+           </div> 
+        </div>
+    </div>
           <form
             class="header__search"
             action=""
-            style="margin:auto;max-width:300px"
           >
             <input
               class="header__search--input-text"

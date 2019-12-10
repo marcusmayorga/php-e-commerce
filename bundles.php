@@ -12,7 +12,7 @@ if (isset($qty)){
 
 ?>
       <section class="products">
-        <h2 class="products__section-title">Shop</h2>
+        <h2 class="products__section-title">Bundles</h2>
         <?php
 
     $sql = $dbh->prepare("select * from mashorts_products where featured = 'yes'");

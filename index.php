@@ -37,6 +37,7 @@ if (isset($qty)){
         $picname = 'prodimages/'.$prodid.'.jpg';
 
         echo '
+        <a id="modalBtn'.$i.'" class="button">
         <div class="products__card prod'.$i.'">
           <div class="products__card--sale">
             <p class="products__card--sale-text">On Sale</p>
@@ -44,6 +45,7 @@ if (isset($qty)){
           <img
             src="'.$picname.'"
             alt="'.$prodname.'"
+            title="'.$prodname.'"
             class="products__card--image"
           />
           <div class="products__card--contain">
@@ -51,16 +53,6 @@ if (isset($qty)){
             <p class="products__card--price">
               '.$prodprice.' <span class="products__card--price-strike">$69.99</span>
             </p>
-            <div>
-
-            <form action = "index.php" method="post">
-           <input type="hidden" name="qty" value="1" required="required"/>
-
-           <input type="hidden" name="prodid" value="'.$prodid.'" required="required"/>
-             <input type="submit" class="fas fa-shopping-cart" value="Add to Cart">
-           </form>
- 
-            </div>
 
             <div class="products__card--reviews">
               <i class="fa fa-star" aria-hidden="true"></i>
@@ -71,7 +63,51 @@ if (isset($qty)){
               <span class="products__card--reviews-text">(104 Reviews)</span>
             </div>
           </div>
-        </div>';
+        </div>
+        </a>
+
+        <div id="simpleModal'.$i.'" class="modal">
+        <div class="modal-content">
+          <div class="modal-header">
+          <span class="closeBtn">&times;</span>
+          <h2 class="modal-header--text">'.$prodname.'</h2>
+          </div>
+            <div class="modal-body">
+            <!-- Product Card -->
+              <div class="products__card prod'.$i.'">
+                <div class="products__card--sale">
+                  <p class="products__card--sale-text">On Sale</p>
+                </div>
+                <img
+                  src="'.$picname.'"
+                  alt="'.$prodname.'"
+                  title="'.$prodname.'"
+                  class="products__card--image"
+                />
+                <div class="products__card--contain">
+                  <h3 class="products__card--title">'.$prodname.'</h3>
+                  
+                  <p class="products__card--price">
+                    '.$prodprice.' <span class="products__card--price-strike">$69.99</span>
+                  </p>
+      
+                </div>
+              </div>
+              <h3>Product<h3>
+              <p class="products__card--desc">'.$proddesc.'</p>
+              <!-- END Product Card -->
+            </div>
+            <div class="modal-footer">
+            <form action = "index.php" method="post">
+           <input type="hidden" name="qty" value="1" required="required"/>
+
+           <input type="hidden" name="prodid" value="'.$prodid.'" required="required"/>
+             <input type="submit" class="fas fa-shopping-cart modal-footer--text" value="Add to Cart">
+           </form>
+            </div>
+        </div>
+      </div>
+        ';
         $i++;
     } ?>
       </section>
